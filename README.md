@@ -16,6 +16,9 @@ Simulación de una licuadora, asegurando que:
 4. Permita consultas sobre el estado de la licuadora
 
 
+El código se encuentra en la carpeta src y se ejecuta con el comando en terminal:  clojure -M -m Blender
+
+
 
 
 
